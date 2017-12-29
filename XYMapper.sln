@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYMapper", "XYMapper\XYMapper.csproj", "{87C5C493-2264-46BD-8F04-4F7AFB7B4ED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYMapperCore", "XYMapperCore\XYMapperCore.csproj", "{A5EDF100-B7B9-4C91-A726-2580C1D57552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GardenMapper", "GardenMapper\GardenMapper.csproj", "{D4C17517-11D8-458A-853D-92E78B2F02AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{87C5C493-2264-46BD-8F04-4F7AFB7B4ED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C5C493-2264-46BD-8F04-4F7AFB7B4ED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C5C493-2264-46BD-8F04-4F7AFB7B4ED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EDF100-B7B9-4C91-A726-2580C1D57552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EDF100-B7B9-4C91-A726-2580C1D57552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EDF100-B7B9-4C91-A726-2580C1D57552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EDF100-B7B9-4C91-A726-2580C1D57552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C17517-11D8-458A-853D-92E78B2F02AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C17517-11D8-458A-853D-92E78B2F02AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C17517-11D8-458A-853D-92E78B2F02AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C17517-11D8-458A-853D-92E78B2F02AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
